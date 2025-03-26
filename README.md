@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello, I am a Computer Science student majoring in Informatics with an interest in Front-End Development.
+You can view my portfolio here. https://adelnovalalfarizi.vercel.app/
 
 
 ## 🌐 Socials:
