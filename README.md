@@ -1,3 +1,6 @@
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/756468608707854397)](https://discord.com/users/756468608707854397)
+
 <h1 align="center">Hi 👋, I'm Nofal</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
