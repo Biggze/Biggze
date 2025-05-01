@@ -1,4 +1,4 @@
-https://lanyard.cnrad.dev/api/866288322028896267)](https://discord.com/users/756468608707854397)
+[![Discord Presence]https://lanyard.cnrad.dev/api/866288322028896267)](https://discord.com/users/756468608707854397)
 
 
 # 💫 About Me:
